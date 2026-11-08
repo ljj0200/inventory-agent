@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+.env.*
+
+# Database
+db.sqlite3
+
+# IDE
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+Inventory_Agent_Tutorial.pdf
